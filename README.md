@@ -1,6 +1,6 @@
-# chatty_block
+# Flutter Bloc Sample
 
-A new Flutter project.
+A Sample Flutter Project with Bloc state management, multithereading and async with api communication
 
 ## Getting Started
 
